@@ -3673,20 +3673,20 @@
                 {
                   "externalReferences": [
                     {
-                      "account": {
-                        "declaration": 260,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "8852:7:0",
-                        "valueSize": 1
-                      }
-                    },
-                    {
                       "size": {
                         "declaration": 266,
                         "isOffset": false,
                         "isSlot": false,
                         "src": "8832:4:0",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "account": {
+                        "declaration": 260,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "8852:7:0",
                         "valueSize": 1
                       }
                     }
@@ -22385,20 +22385,20 @@
                 {
                   "externalReferences": [
                     {
-                      "account": {
-                        "declaration": 260,
-                        "isOffset": false,
-                        "isSlot": false,
-                        "src": "8852:7:0",
-                        "valueSize": 1
-                      }
-                    },
-                    {
                       "size": {
                         "declaration": 266,
                         "isOffset": false,
                         "isSlot": false,
                         "src": "8832:4:0",
+                        "valueSize": 1
+                      }
+                    },
+                    {
+                      "account": {
+                        "declaration": 260,
+                        "isOffset": false,
+                        "isSlot": false,
+                        "src": "8852:7:0",
                         "valueSize": 1
                       }
                     }
@@ -37750,7 +37750,7 @@
   },
   "networks": {},
   "schemaVersion": "3.2.3",
-  "updatedAt": "2021-08-19T04:55:03.827Z",
+  "updatedAt": "2021-08-20T20:54:13.755Z",
   "devdoc": {
     "details": "see https://eips.ethereum.org/EIPS/eip-721",
     "methods": {
